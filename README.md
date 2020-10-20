@@ -1,2 +1,1 @@
-# WrentchBot
-Discord bot
+# Discord bot
